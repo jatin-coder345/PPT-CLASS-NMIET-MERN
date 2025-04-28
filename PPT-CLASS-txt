@@ -1,0 +1,33 @@
+
+
+d - 28.04.25
+~~~~~~~~~~~~~~~~
+
+                        First class of class
+                        ~~~~~~~~~~~~~~~~~~~~~~~
+
+ This is the first class of css in nmiet ppt classs */
+
+There are 5 catogries of selectors 
+1 . simple selector 
+2 . combinator selector
+3 . pseudo-class selector
+4 . pseudo-element selector
+5 . attribute selector
+
+
+~text-align : right;
+
+~ p tag child ta ko style nahi karta
+~ Universl selector is marked as *
+ 
+q - how many ways to insert css ?
+ans - inline , internal , external
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
